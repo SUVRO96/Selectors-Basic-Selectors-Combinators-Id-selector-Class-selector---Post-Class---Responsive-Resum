@@ -8,7 +8,7 @@
 
 /* Write CSS code below */
 .main-content {
-  width: 90%%;
+  width: 90%;
   min-height: 1000px;
   display: grid;
   grid-template-columns: 300px 700px;
@@ -95,7 +95,8 @@ td {
   padding: 0.5rem 1rem;
   color: gray;
 }
-.about {
+.about,
+.experience-details {
   text-transform: none;
   font-size: initial;
   padding-left: 1rem;
