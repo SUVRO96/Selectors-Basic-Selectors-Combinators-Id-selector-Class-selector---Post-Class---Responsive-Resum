@@ -101,7 +101,7 @@ td {
   font-size: initial;
   padding-left: 1rem;
 }
-@media screen and (max-width: 672px) {
+@media screen and (max-width: 674px) {
   .main-content {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
