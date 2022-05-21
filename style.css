@@ -87,6 +87,12 @@
   padding: 2rem 3rem;
   color: #363062;
 }
+.right-title {
+  font-size: 1.2rem;
+  font-weight: 700;
+  padding: 0.5rem;
+  letter-spacing: 1px;
+}
 .right-title,
 p {
   color: #363062;
